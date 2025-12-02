@@ -1,4 +1,4 @@
-# 🚢 Batalha Naval — Implementação em C
+#  Batalha Naval — Implementação em C 🚢
 
 Trabalho desenvolvido pelo aluno **Claudemir Adriano de Albuquerque Silva**  
 Disciplina: **Programação de Inovação e Fundamentos de Sistemas de Informação (PIFSI 2025.2)**  
