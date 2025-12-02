@@ -13,6 +13,7 @@ E-mail: **caas@cesar.school**
 Este repositório apresenta uma implementação própria do jogo **Batalha Naval** utilizando a linguagem **C**, executada exclusivamente via **terminal**.  
 O desenvolvimento teve como objetivo reforçar conhecimentos fundamentais de programação estruturada, modularização, alocação dinâmica e boas práticas de organização de código.
 
+
 ---
 
 ## 🔧 Funcionalidades Desenvolvidas
