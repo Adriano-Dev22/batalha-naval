@@ -105,4 +105,5 @@ O projeto foi dividido em módulos para manter organização e facilitar manuten
 - O módulo `io` concentra toda a leitura e validação de dados digitados  
 - Isso deixa a lógica do jogo mais clara e separada
 
+
 ---
